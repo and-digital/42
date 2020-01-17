@@ -13,3 +13,13 @@
 # Awesome list for single source of truth @ AND
 WARNING: While this list is public, various resources would be only accessible to AND employees. Getting access is a simple process: [click here](https://and.digital/join-us/)
 
+## AND Values
+
+## Techincal topics
+
+### Learning Videos
+ - test 
+ - restricted <img width="30" height="30" src="https://avatars0.githubusercontent.com/u/8202123?s=200&v=4" alt="AND only"/>
+
+
+## For our clients and partners
