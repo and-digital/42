@@ -11,7 +11,7 @@
 
 
 # Awesome list for single source of truth @ AND
-WARNING: While this list is public, various resources would be only accessible to AND employees. Getting access is a simple process: [apply here to become one of us](https://and.digital/join-us/).
+If you are unable to access some of the awesome content you might need to [apply here to become one of AND](https://and.digital/join-us/).
 
 **This is self-managed list. Create a PR to add, amend or remove links.**
 
