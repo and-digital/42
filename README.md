@@ -11,4 +11,5 @@
 
 
 # Awesome list for single source of truth @ AND
-Your single source of truth, link to all the resources @ AND
+WARNING: While this list is public, various resources would be only accessible to AND employees. Getting access is a simple process: [click here](https://and.digital/join-us/)
+
