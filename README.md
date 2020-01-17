@@ -17,6 +17,10 @@
 
 ## Techincal topics
 
+## Internal projects
+
+ - [Cloud Initiative](https://anddigitaltransformation.atlassian.net/secure/RapidBoard.jspa?rapidView=58&projectKey=CI&view=planning&selectedIssue=CI-6&issueLimit=100) - Project to globally implement Cloud Practice @ AND.
+
 ### Learning Videos
  - test 
  - restricted <img width="10" height="10" src="https://avatars0.githubusercontent.com/u/8202123?s=200&v=4" alt="AND only"/>
