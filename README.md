@@ -1,2 +1,6 @@
+<div align="center">
+	<img width="100" height="70" src="media/logo.svg" alt="Awesome AND"/>
+</div>
+
 # 42
-Answer to life, the universe and everything @ Dekker
+Your single source of truth, link to all the resources @ AND
