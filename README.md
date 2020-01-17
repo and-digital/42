@@ -5,13 +5,15 @@
 <hr/>
 <p align="center">
 	<a href="https://github.com/sindresorhus/awesome/blob/master/awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.glassdoor.co.uk/Overview/Working-at-AND-Digital-EI_IE1024275.11,22.htm">What is AND</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.glassdoor.co.uk/Overview/Working-at-AND-Digital-EI_IE1024275.11,22.htm">What is AND?</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://github.com/sindresorhus/awesome/blob/master/contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
 # Awesome list for single source of truth @ AND
-WARNING: While this list is public, various resources would be only accessible to AND employees. Getting access is a simple process: [click here](https://and.digital/join-us/)
+WARNING: While this list is public, various resources would be only accessible to AND employees. Getting access is a simple process: [apply here to become one of us](https://and.digital/join-us/).
+
+**This is self-managed list. Create a PR to add, amend or remove links.**
 
 ## AND Values
 
