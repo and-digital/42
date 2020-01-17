@@ -17,6 +17,11 @@
 
 ## Techincal topics
 
+### DevOps
+
+ - [AND Academy DevOps 2020](https://docs.google.com/document/d/1pW2W4BB0ZbDbNhEfshQLKFIVh7ACvu9LQoC68F_BO4k/edit) - Document explains contents of a new DevOps pathway.
+
+
 ### Learning Videos
  - test 
  - restricted <img width="10" height="10" src="https://avatars0.githubusercontent.com/u/8202123?s=200&v=4" alt="AND only"/>
