@@ -11,9 +11,7 @@
 
 
 # Awesome list for single source of truth @ AND
-If you are unable to access some of the awesome content you might need to [apply here to become one of AND](https://and.digital/join-us/).
-
-**This is self-managed list. Create a PR to add, amend or remove links.**
+**This is self-managed list. Create a PR to add, amend or remove links. If you are unable to access some of the awesome content you might need to [apply here to become one of AND](https://and.digital/join-us/)**
 
 ## AND Values
 
