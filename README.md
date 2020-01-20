@@ -16,6 +16,7 @@
 ## AND Values
 
 ## Techincal topics
+ - [Project Delivery Standards](https://docs.google.com/document/d/1vm_skGRk9AcmrndqS50xDziy8I9u3a7pvhCtNQ7Pkik/edit) - List of technical requirements while working/onboarding on a client.
 
 ### DevOps
 
