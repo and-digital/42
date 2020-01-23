@@ -20,6 +20,7 @@
 ### DevOps
 
  - [AND Academy DevOps 2020](https://docs.google.com/document/d/1pW2W4BB0ZbDbNhEfshQLKFIVh7ACvu9LQoC68F_BO4k/edit) - Document explains contents of a new DevOps pathway.
+ - [Introduction to DevOps for new joiners](https://intellipaat.com/blog/what-is-cloud-engineer-roles-responsibilities/) - A great article that explains the premise of Cloud Practice and DevOps.
 
 
 ### Learning Videos
