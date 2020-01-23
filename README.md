@@ -15,8 +15,11 @@
 
 ## AND Values
 
-## Techincal topics
+## Client Work
+
  - [Project Delivery Standards](https://docs.google.com/document/d/1vm_skGRk9AcmrndqS50xDziy8I9u3a7pvhCtNQ7Pkik/edit) - List of technical requirements while working/onboarding on a client.
+ - [Holiday Tracker](https://docs.google.com/spreadsheets/d/1pTCNGDyrAsPvjyTnV1I4NtwOPV0bHqz-JdeNbwapvbs/edit#gid=816877911) - Great template you can adopt to track availability of an Agile team.
+ 
 
 ## Internal projects
 
