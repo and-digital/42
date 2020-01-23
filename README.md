@@ -17,6 +17,10 @@
 
 ## Techincal topics
 
+## Internal projects
+
+ - [Cloud Initiative](https://anddigitaltransformation.atlassian.net/secure/RapidBoard.jspa?rapidView=58&projectKey=CI&view=planning&selectedIssue=CI-6&issueLimit=100) - Project to globally implement Cloud Practice @ AND.
+
 ### DevOps
 
  - [AND Academy DevOps 2020](https://docs.google.com/document/d/1pW2W4BB0ZbDbNhEfshQLKFIVh7ACvu9LQoC68F_BO4k/edit) - Document explains contents of a new DevOps pathway.
